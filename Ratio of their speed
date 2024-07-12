@@ -1,0 +1,74 @@
+To find the ratio of the speeds of the two trains, let’s denote:
+
+- Speed of Train A = \( S_A \)
+- Speed of Train B = \( S_B \)
+
+### Step 1: Calculate lengths of the trains
+
+Using the information provided:
+
+1. Train A crosses a man in 28 seconds.
+2. Train B crosses a man in 18 seconds.
+
+Let’s denote the lengths of the trains as:
+- Length of Train A = \( L_A \)
+- Length of Train B = \( L_B \)
+
+Using the formula:
+\[
+\text{Length} = \text{Speed} \times \text{Time}
+\]
+
+From Train A:
+\[
+L_A = S_A \times 28
+\]
+
+From Train B:
+\[
+L_B = S_B \times 18
+\]
+
+### Step 2: When they cross each other
+
+When the two trains cross each other, they cover the distance equal to the sum of their lengths in 26 seconds:
+\[
+L_A + L_B = (S_A + S_B) \times 26
+\]
+
+### Step 3: Set up the equations
+
+From the lengths calculated:
+\[
+S_A \times 28 + S_B \times 18 = (S_A + S_B) \times 26
+\]
+
+This simplifies to:
+\[
+28S_A + 18S_B = 26S_A + 26S_B
+\]
+
+### Step 4: Rearranging the equation
+
+Rearranging gives:
+\[
+28S_A - 26S_A = 26S_B - 18S_B
+\]
+\[
+2S_A = 8S_B
+\]
+\[
+\frac{S_A}{S_B} = \frac{8}{2} = 4
+\]
+Thus, we can express it as:
+\[
+\frac{S_A}{S_B} = 4:1
+\]
+
+### Conclusion
+
+The ratio of their speeds is **4:1**.
+
+### Final Answer:
+
+**D. 4:1**
