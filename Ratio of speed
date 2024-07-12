@@ -1,0 +1,73 @@
+### Let:
+- Speed of Train A = \( S_A \)
+- Speed of Train B = \( S_B \)
+
+### Given:
+- Time taken by Train A to cross the man = 36 seconds
+- Time taken by Train B to cross the man = 26 seconds
+- Time taken by the two trains to cross each other = 30 seconds
+
+### Step 1: Calculate lengths of the trains
+
+Using the formula:
+\[
+\text{Length} = \text{Speed} \times \text{Time}
+\]
+
+1. For Train A:
+\[
+L_A = S_A \times 36
+\]
+
+2. For Train B:
+\[
+L_B = S_B \times 26
+\]
+
+### Step 2: When they cross each other
+
+When the trains cross each other, the combined length is:
+\[
+L_A + L_B = (S_A \times 36) + (S_B \times 26)
+\]
+
+This distance is covered in 30 seconds:
+\[
+L_A + L_B = (S_A + S_B) \times 30
+\]
+
+### Step 3: Set up the equations
+
+From the lengths:
+\[
+S_A \times 36 + S_B \times 26 = (S_A + S_B) \times 30
+\]
+
+### Step 4: Substitute \( L_A \) and \( L_B \)
+
+This simplifies to:
+\[
+36S_A + 26S_B = 30S_A + 30S_B
+\]
+
+Rearranging gives:
+\[
+36S_A - 30S_A = 30S_B - 26S_B
+\]
+\[
+6S_A = 4S_B
+\]
+
+### Step 5: Calculate the ratio
+
+Thus, the ratio of their speeds is:
+\[
+\frac{S_A}{S_B} = \frac{4}{6} \Rightarrow \frac{2}{3}
+\]
+
+### Conclusion:
+
+The ratio of the speeds of the two trains is **2:3**.
+
+### Final Answer:
+**None of the options are correct.** The ratio is **2:3**.
