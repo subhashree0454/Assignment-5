@@ -1,0 +1,39 @@
+To determine how many minutes the train stops on average per hour, we can use the speeds provided.
+
+### Given:
+- Speed without stoppage = 72 km/h
+- Speed with stoppage = 60 km/h
+
+### Step 1: Calculate the time spent moving vs. stopping
+
+1. **Distance covered in one hour without stoppage**:
+   \[
+   \text{Distance} = 72 \text{ km}
+   \]
+
+2. **Distance covered in one hour with stoppage**:
+   \[
+   \text{Distance} = 60 \text{ km}
+   \]
+
+### Step 2: Calculate the time spent moving
+
+When the train is moving without stoppage, it covers 72 km in 1 hour. However, with stoppages, it covers only 60 km in the same hour.
+
+### Step 3: Calculate the time spent moving
+
+The time spent moving in an hour with stoppage is:
+\[
+\text{Time moving} = \frac{\text{Distance}}{\text{Speed}} = \frac{60 \text{ km}}{72 \text{ km/h}} = \frac{5}{6} \text{ hours} \approx 50 \text{ minutes}
+\]
+
+### Step 4: Calculate the stopping time
+
+The stopping time in an hour is:
+\[
+\text{Stopping Time} = 60 \text{ minutes} - 50 \text{ minutes} = 10 \text{ minutes}
+\]
+
+### Final Answer:
+
+**C. 10 minutes**
