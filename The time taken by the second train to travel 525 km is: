@@ -1,0 +1,30 @@
+To find the time taken by the second train to travel 525 km, we first need to calculate the average speed of the first train.
+
+### Step 1: Calculate the average speed of the first train
+
+The first train travels from P to Q at 126 km/h and returns at 90 km/h. The average speed can be calculated using the formula for average speed:
+\[
+\text{Average Speed} = \frac{2 \times S_1 \times S_2}{S_1 + S_2}
+\]
+Where:
+- \( S_1 = 126 \) km/h
+- \( S_2 = 90 \) km/h
+
+Calculating the average speed:
+\[
+\text{Average Speed} = \frac{2 \times 126 \times 90}{126 + 90} = \frac{22680}{216} \approx 105 \text{ km/h}
+\]
+
+### Step 2: Calculate the time taken by the second train
+
+The second train travels at the average speed of the first train, which is 105 km/h. To find the time taken to travel 525 km, we use the formula:
+\[
+\text{Time} = \frac{\text{Distance}}{\text{Speed}}
+\]
+\[
+\text{Time} = \frac{525}{105} = 5 \text{ hours}
+\]
+
+### Final Answer:
+
+**A. 5 hours**
