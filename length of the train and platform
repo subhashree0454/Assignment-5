@@ -1,0 +1,63 @@
+To solve the problem, let’s break it down step by step.
+
+### Step 1: Convert Train Speed to m/s
+
+The speed of the train is given as 108 km/hr. To convert this to meters per second:
+\[
+\text{Speed in m/s} = \frac{\text{Speed in km/hr} \times 5}{18}
+\]
+\[
+\text{Train Speed} = \frac{108 \times 5}{18} = 30 \text{ m/s}
+\]
+
+### Step 2: Calculate the Length of the Train
+
+The train crosses the platform in 30 seconds. Using the speed, we can calculate the distance covered in that time, which equals the length of the train plus the length of the platform.
+
+\[
+\text{Distance} = \text{Speed} \times \text{Time}
+\]
+\[
+\text{Distance} = 30 \text{ m/s} \times 30 \text{ seconds} = 900 \text{ meters}
+\]
+Let \( L_t \) = length of the train and \( L_p \) = length of the platform:
+\[
+L_t + L_p = 900 \text{ meters} \quad \text{(1)}
+\]
+
+### Step 3: Calculate the Relative Speed with the Man
+
+The man is running at 12 km/hr, which is:
+\[
+\text{Man Speed} = \frac{12 \times 5}{18} = 3.33 \text{ m/s}
+\]
+
+When the train crosses the man running in the same direction, the relative speed is:
+\[
+\text{Relative Speed} = \text{Train Speed} - \text{Man Speed} = 30 \text{ m/s} - 3.33 \text{ m/s} = 26.67 \text{ m/s}
+\]
+
+The train crosses the man in 9 seconds:
+\[
+\text{Distance} = \text{Relative Speed} \times \text{Time} = 26.67 \text{ m/s} \times 9 \text{ seconds} = 240 \text{ meters}
+\]
+Thus, the length of the train \( L_t = 240 \text{ meters} \).
+
+### Step 4: Calculate the Length of the Platform
+
+Substituting \( L_t \) into equation (1):
+\[
+240 + L_p = 900
+\]
+\[
+L_p = 900 - 240 = 660 \text{ meters}
+\]
+
+### Conclusion
+
+- Length of the Train = **240 meters**
+- Length of the Platform = **660 meters**
+
+### Final Answer:
+
+**C. 240 & 660**
