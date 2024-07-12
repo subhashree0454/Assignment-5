@@ -1,0 +1,66 @@
+To find the distance between stations A and B, let's denote the distance as \( D \) km and the speed of the train as \( S \) km/h.
+
+### Step 1: Convert time from minutes to hours
+
+1. **Time for first trip**: 
+   \[
+   \text{Time}_1 = 45 \text{ min} = \frac{45}{60} = 0.75 \text{ hours}
+   \]
+
+2. **Time for second trip**: 
+   \[
+   \text{Time}_2 = 48 \text{ min} = \frac{48}{60} = 0.8 \text{ hours}
+   \]
+
+### Step 2: Set up the equations based on speed and distance
+
+Using the formula \( \text{Distance} = \text{Speed} \times \text{Time} \):
+
+1. For the first trip:
+   \[
+   D = S \times 0.75 \quad \text{(1)}
+   \]
+
+2. For the second trip with reduced speed:
+   \[
+   D = (S - 5) \times 0.8 \quad \text{(2)}
+   \]
+
+### Step 3: Set the two expressions for distance equal
+
+From (1) and (2):
+\[
+S \times 0.75 = (S - 5) \times 0.8
+\]
+
+### Step 4: Expand and rearrange the equation
+
+Expanding:
+\[
+0.75S = 0.8S - 4
+\]
+
+Rearranging gives:
+\[
+4 = 0.8S - 0.75S
+\]
+\[
+4 = 0.05S
+\]
+
+### Step 5: Solve for \( S \)
+
+\[
+S = \frac{4}{0.05} = 80 \text{ km/h}
+\]
+
+### Step 6: Calculate the distance \( D \)
+
+Using \( S \) in equation (1):
+\[
+D = S \times 0.75 = 80 \times 0.75 = 60 \text{ km}
+\]
+
+### Final Answer:
+
+**C. 60**
