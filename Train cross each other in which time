@@ -1,0 +1,61 @@
+To find the time it takes for two trains to cross each other, we can use the information provided:
+
+### Given:
+
+- **Time taken by Train A to pass a pole** = 18 seconds
+- **Time taken by Train B to pass a pole** = 12 seconds
+
+### Step 1: Calculate the lengths of the trains
+
+Let \( L \) be the length of each train.
+
+Using the formula:
+\[
+\text{Speed} = \frac{\text{Distance}}{\text{Time}}
+\]
+
+1. For Train A:
+\[
+S_A = \frac{L}{18}
+\]
+
+2. For Train B:
+\[
+S_B = \frac{L}{12}
+\]
+
+### Step 2: Calculate the speeds of the trains
+
+From the lengths:
+- Speed of Train A:
+\[
+S_A = \frac{L}{18}
+\]
+
+- Speed of Train B:
+\[
+S_B = \frac{L}{12}
+\]
+
+### Step 3: Calculate the relative speed
+
+When the trains are running in opposite directions, the relative speed is:
+\[
+S_{relative} = S_A + S_B = \frac{L}{18} + \frac{L}{12}
+\]
+
+To add these, find a common denominator (which is 36):
+\[
+S_{relative} = \frac{2L}{36} + \frac{3L}{36} = \frac{5L}{36}
+\]
+
+### Step 4: Calculate the time to cross each other
+
+When the trains cross each other, the total distance covered is \( L + L = 2L \):
+\[
+\text{Time} = \frac{\text{Total Distance}}{\text{Relative Speed}} = \frac{2L}{\frac{5L}{36}} = \frac{2L \times 36}{5L} = \frac{72}{5} = 14.4 \text{ seconds}
+\]
+
+### Final Answer:
+
+**A. 14.4 seconds**
