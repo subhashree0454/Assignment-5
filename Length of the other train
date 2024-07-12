@@ -1,0 +1,62 @@
+To find the length of the other train, we can use the information given about the speeds and the time taken to cross each other.
+
+### Given:
+- Length of Train A = 270 meters
+- Speed of Train A = 120 km/h
+- Speed of Train B = 80 km/h
+- Time taken to cross each other = 9 seconds
+
+### Step 1: Convert speeds to meters per second
+
+To convert km/h to m/s, use:
+\[
+\text{Speed in m/s} = \frac{\text{Speed in km/h} \times 5}{18}
+\]
+
+- Speed of Train A:
+\[
+120 \text{ km/h} = \frac{120 \times 5}{18} \approx 33.33 \text{ m/s}
+\]
+
+- Speed of Train B:
+\[
+80 \text{ km/h} = \frac{80 \times 5}{18} \approx 22.22 \text{ m/s}
+\]
+
+### Step 2: Calculate the relative speed
+
+When the trains are moving in opposite directions, the relative speed is:
+\[
+S_{\text{relative}} = S_A + S_B = 33.33 + 22.22 \approx 55.55 \text{ m/s}
+\]
+
+### Step 3: Calculate the total distance covered while crossing
+
+Using the formula:
+\[
+\text{Distance} = \text{Speed} \times \text{Time}
+\]
+The distance covered while crossing each other is:
+\[
+\text{Distance} = S_{\text{relative}} \times \text{Time} = 55.55 \times 9 \approx 500 \text{ meters}
+\]
+
+### Step 4: Calculate the length of the other train
+
+The total distance covered is the sum of the lengths of both trains:
+\[
+\text{Total Distance} = \text{Length of Train A} + \text{Length of Train B}
+\]
+\[
+500 = 270 + L_B
+\]
+Where \( L_B \) is the length of the other train.
+
+Thus,
+\[
+L_B = 500 - 270 = 230 \text{ meters}
+\]
+
+### Final Answer:
+
+**A. 230 m**
