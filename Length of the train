@@ -1,0 +1,294 @@
+Lengths of the trains:
+
+Train A = 125 meters
+Train B = 115 meters
+Time taken to cross each other when running in the same direction = 30 seconds.
+
+Time taken to cross each other when running in opposite directions = 10 seconds.
+
+Let’s denote:
+Speed of Train A = 
+𝑆
+𝐴
+S 
+A
+​
+  m/s
+Speed of Train B = 
+𝑆
+𝐵
+S 
+B
+​
+  m/s
+1. When running in the same direction:
+The relative speed = 
+𝑆
+𝐴
+−
+𝑆
+𝐵
+S 
+A
+​
+ −S 
+B
+​
+ .
+
+The distance to be covered when they cross each other = length of Train A + length of Train B = 125 + 115 = 240 meters.
+
+Using the formula:
+
+Time
+=
+Distance
+Relative Speed
+Time= 
+Relative Speed
+Distance
+​
+ 
+
+30
+=
+240
+𝑆
+𝐴
+−
+𝑆
+𝐵
+30= 
+S 
+A
+​
+ −S 
+B
+​
+ 
+240
+​
+ 
+
+𝑆
+𝐴
+−
+𝑆
+𝐵
+=
+240
+30
+=
+8
+(1)
+S 
+A
+​
+ −S 
+B
+​
+ = 
+30
+240
+​
+ =8(1)
+2. When running in opposite directions:
+The relative speed = 
+𝑆
+𝐴
++
+𝑆
+𝐵
+S 
+A
+​
+ +S 
+B
+​
+ .
+
+Using the same formula:
+
+10
+=
+240
+𝑆
+𝐴
++
+𝑆
+𝐵
+10= 
+S 
+A
+​
+ +S 
+B
+​
+ 
+240
+​
+ 
+
+𝑆
+𝐴
++
+𝑆
+𝐵
+=
+240
+10
+=
+24
+(2)
+S 
+A
+​
+ +S 
+B
+​
+ = 
+10
+240
+​
+ =24(2)
+3. Solving the equations:
+From equations (1) and (2):
+
+𝑆
+𝐴
+−
+𝑆
+𝐵
+=
+8
+S 
+A
+​
+ −S 
+B
+​
+ =8
+𝑆
+𝐴
++
+𝑆
+𝐵
+=
+24
+S 
+A
+​
+ +S 
+B
+​
+ =24
+Now, we can solve for 
+𝑆
+𝐴
+S 
+A
+​
+  and 
+𝑆
+𝐵
+S 
+B
+​
+ .
+
+Adding the equations:
+
+(
+𝑆
+𝐴
+−
+𝑆
+𝐵
+)
++
+(
+𝑆
+𝐴
++
+𝑆
+𝐵
+)
+=
+8
++
+24
+(S 
+A
+​
+ −S 
+B
+​
+ )+(S 
+A
+​
+ +S 
+B
+​
+ )=8+24
+
+2
+𝑆
+𝐴
+=
+32
+  
+⟹
+  
+𝑆
+𝐴
+=
+16
+ m/s
+2S 
+A
+​
+ =32⟹S 
+A
+​
+ =16 m/s
+Substituting 
+𝑆
+𝐴
+S 
+A
+​
+  back into (1):
+
+16
+−
+𝑆
+𝐵
+=
+8
+  
+⟹
+  
+𝑆
+𝐵
+=
+8
+ m/s
+16−S 
+B
+​
+ =8⟹S 
+B
+​
+ =8 m/s
+Conclusion:
+Speed of Train A: 16 m/s
+Speed of Train B: 8 m/s
+Answer:
+Train A: 16 m/s (or 57.6 km/h)
+Train B: 8 m/s (or 28.8 km/h)
+From the options given:
+
+16.8 (closest to Train A's speed)
+The correct speeds should be 16 and 8.
+
+
