@@ -1,0 +1,40 @@
+To solve the problem, let's follow these steps:
+
+### Step 1: Calculate the Speed of the Train
+
+The train crosses a pole in 12 seconds. The length of the train is 240 meters.
+
+Using the formula:
+\[
+\text{Speed} = \frac{\text{Distance}}{\text{Time}}
+\]
+\[
+\text{Speed} = \frac{240 \text{ meters}}{12 \text{ seconds}} = 20 \text{ m/s}
+\]
+
+### Step 2: Calculate the Total Distance to Cross the Platform
+
+When the train crosses a platform, the distance to cover is the length of the train plus the length of the platform.
+
+Length of the platform = 400 meters, so:
+\[
+\text{Total Distance} = 240 \text{ meters} + 400 \text{ meters} = 640 \text{ meters}
+\]
+
+### Step 3: Calculate the Time to Cross the Platform
+
+Using the speed calculated:
+\[
+\text{Time} = \frac{\text{Distance}}{\text{Speed}}
+\]
+\[
+\text{Time} = \frac{640 \text{ meters}}{20 \text{ m/s}} = 32 \text{ seconds}
+\]
+
+### Conclusion
+
+The time taken to cross the platform is **32 seconds**.
+
+### Final Answer
+
+**None of the options provided are correct.** The calculated time is **32 seconds**.
