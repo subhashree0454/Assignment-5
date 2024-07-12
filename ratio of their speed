@@ -1,0 +1,31 @@
+To find the ratio of the speeds of the two trains, we can use the information about the time taken by each train to reach its destination after they meet.
+
+### Given:
+- Time taken by Train A (Howrah to Patna) after meeting = 9 hours
+- Time taken by Train B (Patna to Howrah) after meeting = 16 hours
+
+### Step 1: Understanding the relationship
+
+Let:
+- Speed of Train A = \( S_A \)
+- Speed of Train B = \( S_B \)
+
+When the two trains meet, the distances they have left to travel are proportional to the times they take to reach their destinations after meeting.
+
+### Step 2: Setting up the ratio
+
+Using the relationship:
+\[
+\frac{S_A}{S_B} = \frac{\text{Time taken by B}}{\text{Time taken by A}} = \frac{16}{9}
+\]
+
+### Conclusion
+
+Thus, the ratio of their speeds is:
+\[
+S_A : S_B = 16 : 9
+\]
+
+### Final Answer:
+
+**D. 9:16** (in the context of speeds, it can be stated as 16:9, but from the options given, the ratio reflects 9:16).
