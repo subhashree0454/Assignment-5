@@ -1,0 +1,47 @@
+To find the time when the two trains will meet, let's break down the problem step by step.
+
+### Given:
+- Distance between stations P and Q = 110 km
+- Speed of Train from P = 20 km/h
+- Speed of Train from Q = 25 km/h
+- Train from P starts at 7:00 a.m.
+- Train from Q starts at 8:00 a.m.
+
+### Step 1: Calculate the time difference
+
+The train from P starts 1 hour earlier than the train from Q. In that hour, the distance covered by the train from P is:
+\[
+\text{Distance} = \text{Speed} \times \text{Time} = 20 \text{ km/h} \times 1 \text{ hour} = 20 \text{ km}
+\]
+
+### Step 2: Remaining distance between the trains when Train Q starts
+
+After 1 hour, the remaining distance between the two trains is:
+\[
+\text{Remaining Distance} = 110 \text{ km} - 20 \text{ km} = 90 \text{ km}
+\]
+
+### Step 3: Calculate the relative speed of both trains
+
+When both trains are moving towards each other, their relative speed is:
+\[
+\text{Relative Speed} = 20 \text{ km/h} + 25 \text{ km/h} = 45 \text{ km/h}
+\]
+
+### Step 4: Calculate the time to meet
+
+Using the remaining distance and the relative speed, we can calculate the time taken to meet:
+\[
+\text{Time} = \frac{\text{Distance}}{\text{Speed}} = \frac{90 \text{ km}}{45 \text{ km/h}} = 2 \text{ hours}
+\]
+
+### Step 5: Calculate the meeting time
+
+Since Train Q starts at 8:00 a.m., adding 2 hours to this time gives:
+\[
+\text{Meeting Time} = 8:00 \text{ a.m.} + 2 \text{ hours} = 10:00 \text{ a.m.}
+\]
+
+### Final Answer:
+
+**B. 10:00**
