@@ -1,0 +1,79 @@
+To find the distance between the two stations, let's denote:
+
+- Speed of Train P = 40 km/hr
+- Speed of Train Q = 45 km/hr
+
+### Step 1: Let the distance covered by Train P be \( x \) km.
+
+According to the problem, when the trains meet, Train Q has covered 20 km more than Train P. Thus, the distance covered by Train Q can be expressed as:
+\[
+\text{Distance covered by Train Q} = x + 20 \text{ km}
+\]
+
+### Step 2: Using the relation of distance and speed
+
+The time taken by both trains to meet can be expressed using the formula:
+\[
+\text{Time} = \frac{\text{Distance}}{\text{Speed}}
+\]
+
+For Train P:
+\[
+\text{Time} = \frac{x}{40}
+\]
+
+For Train Q:
+\[
+\text{Time} = \frac{x + 20}{45}
+\]
+
+### Step 3: Setting the time equations equal
+
+Since both trains meet at the same time, we can set the equations equal to each other:
+\[
+\frac{x}{40} = \frac{x + 20}{45}
+\]
+
+### Step 4: Cross-multiplying to solve for \( x \)
+
+Cross-multiplying gives:
+\[
+45x = 40(x + 20)
+\]
+\[
+45x = 40x + 800
+\]
+\[
+45x - 40x = 800
+\]
+\[
+5x = 800
+\]
+\[
+x = 160 \text{ km}
+\]
+
+### Step 5: Finding the distance covered by Train Q
+
+The distance covered by Train Q is:
+\[
+x + 20 = 160 + 20 = 180 \text{ km}
+\]
+
+### Step 6: Total distance between the two stations
+
+The total distance between stations P and Q is:
+\[
+\text{Total Distance} = \text{Distance covered by Train P} + \text{Distance covered by Train Q}
+\]
+\[
+\text{Total Distance} = 160 + 180 = 340 \text{ km}
+\]
+
+### Conclusion
+
+The distance between the two stations is **340 km**.
+
+### Final Answer:
+
+**C. 340 km**
