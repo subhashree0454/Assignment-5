@@ -1,0 +1,78 @@
+To find the speed of the train, we can use the information provided about how long it takes the train to pass a telegraph post and a bridge.
+
+### Given:
+
+1. **Length of the bridge** = 264 meters
+2. **Time to pass the telegraph post** = 8 seconds
+3. **Time to pass the bridge** = 20 seconds
+
+### Step 1: Calculate the speed using the telegraph post
+
+When passing the telegraph post, the distance covered is equal to the length of the train. Let \( L \) be the length of the train.
+
+Using the formula:
+\[
+\text{Speed} = \frac{\text{Distance}}{\text{Time}}
+\]
+For the telegraph post:
+\[
+\text{Speed} = \frac{L}{8}
+\]
+
+### Step 2: Calculate the speed using the bridge
+
+When passing the bridge, the distance covered is equal to the length of the train plus the length of the bridge:
+\[
+\text{Distance} = L + 264
+\]
+Using the time to pass the bridge:
+\[
+\text{Speed} = \frac{L + 264}{20}
+\]
+
+### Step 3: Set the two speed equations equal
+
+Since both speeds are equal, we can set the equations equal to each other:
+\[
+\frac{L}{8} = \frac{L + 264}{20}
+\]
+
+### Step 4: Cross-multiply to solve for \( L \)
+
+Cross-multiplying gives:
+\[
+20L = 8(L + 264)
+\]
+\[
+20L = 8L + 2112
+\]
+\[
+20L - 8L = 2112
+\]
+\[
+12L = 2112
+\]
+\[
+L = \frac{2112}{12} = 176 \text{ meters}
+\]
+
+### Step 5: Calculate the speed of the train
+
+Using the length of the train to find the speed:
+\[
+\text{Speed} = \frac{L}{8} = \frac{176}{8} = 22 \text{ m/s}
+\]
+
+### Step 6: Convert speed to km/hr
+
+To convert m/s to km/hr, use the formula:
+\[
+\text{Speed in km/hr} = \text{Speed in m/s} \times \frac{18}{5}
+\]
+\[
+\text{Speed} = 22 \times \frac{18}{5} = 79.2 \text{ km/hr}
+\]
+
+### Final Answer:
+
+**D. 79.2 km/hr**
