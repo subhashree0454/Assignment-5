@@ -1,0 +1,110 @@
+Given:
+Length of Train A = 140 meters
+Length of Train B = 166 meters
+Speed of Train A = 50 km/hr
+Speed of Train B = 60 km/hr
+Step 1: Convert speeds from km/hr to m/s
+To convert km/hr to m/s, use the formula:
+
+Speed in m/s
+=
+Speed in km/hr
+×
+5
+18
+Speed in m/s= 
+18
+Speed in km/hr×5
+​
+ 
+For Train A:
+
+50
+ km/hr
+=
+50
+×
+5
+18
+≈
+13.89
+ m/s
+50 km/hr= 
+18
+50×5
+​
+ ≈13.89 m/s
+For Train B:
+
+60
+ km/hr
+=
+60
+×
+5
+18
+≈
+16.67
+ m/s
+60 km/hr= 
+18
+60×5
+​
+ ≈16.67 m/s
+Step 2: Calculate the total distance to be covered when they cross each other
+Total distance = Length of Train A + Length of Train B:
+
+Total Distance
+=
+140
++
+166
+=
+306
+ meters
+Total Distance=140+166=306 meters
+Step 3: Calculate the relative speed when moving towards each other
+Relative speed = Speed of Train A + Speed of Train B:
+
+Relative Speed
+=
+13.89
++
+16.67
+≈
+30.56
+ m/s
+Relative Speed=13.89+16.67≈30.56 m/s
+Step 4: Calculate the time to cross each other
+Using the formula:
+
+Time
+=
+Distance
+Speed
+Time= 
+Speed
+Distance
+​
+ 
+
+Time
+=
+306
+30.56
+≈
+10
+ seconds
+Time= 
+30.56
+306
+​
+ ≈10 seconds
+Conclusion:
+The trains will take approximately 10 seconds to cross each other after they meet.
+
+Final Answer:
+D. 10 seconds
+
+
+
